@@ -1,3 +1,3 @@
-***pip install streamlit***
+pip install streamlit
 
-****Run the program : streamlit run app.py****
+Run the program : streamlit run app.py
